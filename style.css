@@ -2,8 +2,6 @@ h1
 { color:#000;
 font-size: 40px;
 font-family: Helvetica;
-border-top-style: dotted;
-border-top-width: 10px;
 border-top-color: #FFE;
 }
 img {
@@ -16,12 +14,14 @@ img {
 }
 body {
 background: #FFE;
-font-size: 20px;
-}
+font-size: 18px;
 h2 {
-	color: #887;
+	color: #555;
 }
 a {
-	color: #900;
+	color: #400;
+.section-title {
+	color: #000;
+}
 }
 
