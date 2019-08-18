@@ -1,0 +1,27 @@
+h1 
+{ color:#000;
+font-size: 40px;
+font-family: Helvetica;
+border-top-style: dotted;
+border-top-width: 10px;
+border-top-color: #FFE;
+}
+img {
+	height: 600px;
+	object-fit: cover;
+	width: 70%;
+	border-color: #000;
+	border-style: dotted;
+	border-width: 10px;
+}
+body {
+background: #FFE;
+font-size: 20px;
+}
+h2 {
+	color: #887;
+}
+a {
+	color: #900;
+}
+
